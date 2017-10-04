@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tineep.iml" filepath="$PROJECT_DIR$/.idea/modules/tineep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tineep_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tineep_main.iml" group="tineep" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tineep_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tineep_test.iml" group="tineep" />
+    </modules>
+  </component>
+</project>
