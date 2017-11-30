@@ -3,6 +3,7 @@ sudo: required
 jdk:
   - oraclejdk8
   
-# Send coverage data
-after_success:
-  bash <(curl -s https://codecov.io/bash)
+test:
+    post:
+        - if [ -e ./gradlew ]; then ./gradlew jacocoTestReport;else gradle jacocoTestReport;fi
+        - bash <(curl -s https://codecov.io/bash) -t a2279479-30df-404b-8763-2a4da44cf054
