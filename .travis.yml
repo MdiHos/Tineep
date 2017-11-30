@@ -1,0 +1,8 @@
+language: java 
+sudo: required
+jdk:
+  - oraclejdk8
+  
+# Send coverage data
+after_success:
+  bash <(curl -s https://codecov.io/bash)
