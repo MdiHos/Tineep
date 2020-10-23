@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/tineep.iml" filepath="$PROJECT_DIR$/.idea/modules/tineep.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tineep_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tineep_main.iml" group="tineep" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tineep_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tineep_test.iml" group="tineep" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tineep.main.iml" filepath="$PROJECT_DIR$/.idea/modules/tineep.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tineep.test.iml" filepath="$PROJECT_DIR$/.idea/modules/tineep.test.iml" />
     </modules>
   </component>
 </project>

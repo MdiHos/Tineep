@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tineep:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tineep_jar</output-path>
+    <root id="archive" name="tineep.jar">
+      <element id="module-output" name="tineep_main" />
+    </root>
+  </artifact>
+</component>
